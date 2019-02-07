@@ -1,4 +1,6 @@
-# spotify-player
+# Spotify Player
+[![BCH compliance](https://bettercodehub.com/edge/badge/gabriel-hahn/spotify-player?branch=master)](https://bettercodehub.com/)
+
 A example of Spotify player which using [spotify-wrapper](https://github.com/gabriel-hahn/spotify-wrapper).
 
 # Browser Support
