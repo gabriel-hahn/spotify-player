@@ -1,5 +1,5 @@
 # Spotify Player
-[![BCH compliance](https://bettercodehub.com/edge/badge/gabriel-hahn/spotify-player?branch=master)](https://bettercodehub.com/)
+[![BCH compliance](https://bettercodehub.com/edge/badge/gabriel-hahn/spotify-player?branch=master)](https://bettercodehub.com/) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/847a6185823145d6bcfe94a5be800b72)](https://www.codacy.com/app/gabriel_hahn/spotify-player?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gabriel-hahn/spotify-player&amp;utm_campaign=Badge_Grade)
 
 A example of Spotify player which using [spotify-wrapper](https://github.com/gabriel-hahn/spotify-wrapper).
 
